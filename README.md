@@ -9,7 +9,7 @@
 ## 📸 Screenshots
 (Add your screenshots here below by dragging and dropping or linking)
 
-![App Screenshot](screenshot1.png)
+![App Screenshot](https://github.com/jiya-singhThakur/AndroidProjects/blob/master/screenshot1.png.jpg)
 
 ## ⚙ Setup Instructions
 1. Clone this repo:
